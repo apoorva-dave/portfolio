@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.profile {
+  width: 100%;
+  text-align: center; 
+}
+
+.profile-image {
+  width: 25%;
+  padding: 10px;
+  float:  left;
+  padding-left: 100px;
+  padding-top: 150px;
+}
+
+.resume {
+  padding-left: 10px;
+  color: chocolate;
+}
